@@ -16,48 +16,36 @@
 
 ---
 
-<pre>
-# ──────────────────────────────────────────────
-# whoami
-# ──────────────────────────────────────────────
+## About
 
-> name        : Sandipan Bera
-> role        : UI/UX Designer · React Native Developer
-> location    : India  🇮🇳
-> currently   : Building LokalMind - on-device LLM for iOS
-> philosophy  : Build something valuable - for people, for developers. Open-source journey starts with LokalMind.
-> interests   : privacy-first software · local AI · clean mobile UI
+- **Name:** Sandipan Bera
+- **Role:** UI/UX Designer · React Native Developer
+- **Location:** India 🇮🇳
+- **Currently:** Building LokalMind - on-device LLM for iOS
+- **Philosophy:** Build something valuable - for people, for developers. Open-source journey starts with LokalMind.
+- **Interests:** privacy-first software · local AI · clean mobile UI
 
-# ──────────────────────────────────────────────
-# current_stack --active
-# ──────────────────────────────────────────────
+## Current Stack
 
-> primary     : React Native · Expo · TypeScript
-> state       : MobX · expo-sqlite · Redux
-> on-device   : llama.rn (GGUF) · whisper.rn · all-MiniLM-L6-v2
-> design      : Figma
-> deploy      : EAS Build · Xcode · App Store Connect
+- **Primary:** React Native · Expo · TypeScript
+- **State:** MobX · expo-sqlite · Redux
+- **On-device:** llama.rn (GGUF) · whisper.rn · all-MiniLM-L6-v2
+- **Design:** Figma
+- **Deploy:** EAS Build · Xcode · App Store Connect
 
-# ──────────────────────────────────────────────
-# ls ~/projects --pinned
-# ──────────────────────────────────────────────
+## Current Projects
 
-> 🧠 <a href="https://github.com/Sandipan006/LokalMind">LokalMind</a> — iOS · on-device LLM · zero cloud · MIT
-> desc       : Run Qwen 3, Gemma 3, DeepSeek R1 fully on-device.
->              Semantic memory, Whisper STT, offline-first. Your AI. Your data.
-> stack      : React Native · Expo · llama.rn · whisper.rn · MobX · SQLite
+- 🧠 **[LokalMind](https://github.com/Sandipan006/LokalMind)** — iOS · on-device LLM · zero cloud · MIT  
+  Run Qwen 3, Gemma 3, DeepSeek R1 fully on-device. Semantic memory, Whisper STT, offline-first.  
+  **Stack:** React Native · Expo · llama.rn · whisper.rn · MobX · SQLite
 
-> 🌐 <a href="https://github.com/Sandipan006/neuroglitch">NeuroGlitch</a> — Web · cyberpunk ASCII art processor · MIT
-> desc       : Transform any image into glitchy, neon-drenched ASCII art.
->              Real-time controls, multiple color modes, export as PNG.
-> stack      : React 19 · TypeScript · Vite · HTML5 Canvas · Tailwind
-> live       : <a href="https://neuroglitch.vercel.app">neuroglitch.vercel.app</a>
+- 🌐 **[NeuroGlitch](https://github.com/Sandipan006/neuroglitch)** — Web · cyberpunk ASCII art processor · MIT  
+  Transform any image into glitchy, neon-drenched ASCII art. Real-time controls, multiple color modes, export as PNG.  
+  **Stack:** React 19 · TypeScript · Vite · HTML5 Canvas · Tailwind · **Live:** [neuroglitch.vercel.app](https://neuroglitch.vercel.app)
 
-> 🎯 <a href="https://github.com/Sandipan006/react-native-3d-animated-buttons">react-native-3d-animated-buttons</a> — npm package · MIT · ⭐ 34
-> desc       : Duolingo-style 3D press buttons with spring physics and haptic feedback.
->              50+ SVG icons, RTL support, full TypeScript, zero config.
-> stack      : React Native · TypeScript · expo-haptics · react-native-svg
-</pre>
+- 🎯 **[react-native-3d-animated-buttons](https://github.com/Sandipan006/react-native-3d-animated-buttons)** — npm package · MIT · ⭐ 34  
+  Duolingo-style 3D press buttons with spring physics and haptic feedback. 50+ SVG icons, RTL support, full TypeScript, zero config.  
+  **Stack:** React Native · TypeScript · expo-haptics · react-native-svg
 
 ---
 
@@ -82,8 +70,8 @@
 
 ---
 
-### 📬 Reach me
+### Connect
 
-> ![Email](https://img.shields.io/badge/Email-1B1F23?style=flat-square&logo=gmail&logoColor=white) [hey.sandipanbera@email.com](mailto:hey.sandipanbera@email.com)  
-> ![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1F23?style=flat-square&logo=linkedin&logoColor=white) [linkedin.com/in/sandipan-bera](https://linkedin.com/in/sandipan-bera)  
-> ![X](https://img.shields.io/badge/X-1B1F23?style=flat-square&logo=x&logoColor=white) [x.com/hey_sandipan](https://x.com/hey_sandipan)
+[![Email](https://img.shields.io/badge/Email-1B1F23?style=flat-square&logo=gmail&logoColor=white)](mailto:hey.sandipanbera@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1F23?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipan-bera)
+[![X](https://img.shields.io/badge/X-1B1F23?style=flat-square&logo=x&logoColor=white)](https://x.com/hey_sandipan)
