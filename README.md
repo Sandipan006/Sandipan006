@@ -41,23 +41,23 @@
 # ──────────────────────────────────────────────
 # ls ~/projects --pinned
 # ──────────────────────────────────────────────
-
-> 🧠 [LokalMind](https://github.com/Sandipan006/LokalMind)              — iOS · on-device LLM · zero cloud · MIT
->    desc                   : Run Qwen 3, Gemma 3, DeepSeek R1 fully on-device.
->                             Semantic memory, Whisper STT, offline-first. Your AI. Your data.
->    stack                  : React Native · Expo · llama.rn · whisper.rn · MobX · SQLite
-
-> 🌐 [NeuroGlitch](https://github.com/Sandipan006/neuroglitch)             — Web · cyberpunk ASCII art processor · MIT
->    desc                   : Transform any image into glitchy, neon-drenched ASCII art.
->                             Real-time controls, multiple color modes, export as PNG.
->    stack                  : React 19 · TypeScript · Vite · HTML5 Canvas · Tailwind
->    live                   : neuroglitch.vercel.app
-
-> 🎯 [react-native-3d-animated-buttons](https://github.com/Sandipan006/react-native-3d-animated-buttons)  — npm package · MIT · ⭐ 34
->    desc                   : Duolingo-style 3D press buttons with spring physics and haptic feedback.
->                             50+ SVG icons, RTL support, full TypeScript, zero config.
->    stack                  : React Native · TypeScript · expo-haptics · react-native-svg
 ```
+
+> 🧠 [LokalMind](https://github.com/Sandipan006/LokalMind) — iOS · on-device LLM · zero cloud · MIT  
+> desc: Run Qwen 3, Gemma 3, DeepSeek R1 fully on-device.  
+> Semantic memory, Whisper STT, offline-first. Your AI. Your data.  
+> stack: React Native · Expo · llama.rn · whisper.rn · MobX · SQLite
+>
+> 🌐 [NeuroGlitch](https://github.com/Sandipan006/neuroglitch) — Web · cyberpunk ASCII art processor · MIT  
+> desc: Transform any image into glitchy, neon-drenched ASCII art.  
+> Real-time controls, multiple color modes, export as PNG.  
+> stack: React 19 · TypeScript · Vite · HTML5 Canvas · Tailwind  
+> live: [neuroglitch.vercel.app](https://neuroglitch.vercel.app)
+>
+> 🎯 [react-native-3d-animated-buttons](https://github.com/Sandipan006/react-native-3d-animated-buttons) — npm package · MIT · ⭐ 34  
+> desc: Duolingo-style 3D press buttons with spring physics and haptic feedback.  
+> 50+ SVG icons, RTL support, full TypeScript, zero config.  
+> stack: React Native · TypeScript · expo-haptics · react-native-svg
 
 ---
 
@@ -84,8 +84,6 @@
 
 ### 📬 Reach me
 
-```bash
-> email    : hey.sandipanbera@email.com
-> linkedin : linkedin.com/in/sandipan-bera
-> X : [linkedin.com/in/sandipan-bera](https://x.com/hey_sandipan)
-```
+> email: [hey.sandipanbera@email.com](mailto:hey.sandipanbera@email.com)  
+> linkedin: [linkedin.com/in/sandipan-bera](https://linkedin.com/in/sandipan-bera)  
+> X: [x.com/hey_sandipan](https://x.com/hey_sandipan)
