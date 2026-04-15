@@ -1,16 +1,91 @@
-# Hey, I'm Sandipan 👋
-
-UI/UX Designer & React Native Developer based in Kolkata, India.
-
-Currently building **[LokalMind](https://github.com/Sandipan006/lokalmind-app)** — an iOS app that runs LLMs entirely on-device. No cloud. No compromise.
+```
+ _____   ___   _   _ ______  _____ ______   ___   _   _ 
+/  ___| / _ \ | \ | ||  _  \|_   _|| ___ \ / _ \ | \ | |
+\ `--. / /_\ \|  \| || | | |  | |  | |_/ // /_\ \|  \| |
+ `--. \|  _  || . ` || | | |  | |  |  __/ |  _  || . ` |
+/\__/ /| | | || |\  || |/ /  _| |_ | |    | | | || |\  |
+\____/ \_| |_/\_| \_/|___/   \___/ \_|    \_| |_/\_| \_|
+```
+```
+ ____  _____ ____      _    
+| __ )| ____|  _ \    / \   
+|  _ \|  _| | |_) |  / _ \  
+| |_) | |___|  _ <  / ___ \ 
+|____/|_____|_| \_\/_/   \_\
+```
 
 ---
 
-**Stack** — React Native · Expo · TypeScript · Figma · MobX · SQLite
+```bash
+# ──────────────────────────────────────────────
+# whoami
+# ──────────────────────────────────────────────
 
-**Interests** — Privacy-first apps · Local-first AI · Open source
+> name        : Sandipan Bera
+> role        : UI/UX Designer · React Native Developer
+> location    : India  🇮🇳
+> currently   : Building LokalMind - on-device LLM for iOS
+> philosophy  : Build something valuable - for people, for developers. Open-source journey starts with LokalMind.
+> interests   : privacy-first software · local AI · clean mobile UI
+
+# ──────────────────────────────────────────────
+# current_stack --active
+# ──────────────────────────────────────────────
+
+> primary     : React Native · Expo · TypeScript
+> state       : MobX · expo-sqlite · Redux
+> on-device   : llama.rn (GGUF) · whisper.rn · all-MiniLM-L6-v2
+> design      : Figma
+> deploy      : EAS Build · Xcode · App Store Connect
+
+# ──────────────────────────────────────────────
+# ls ~/projects --pinned
+# ──────────────────────────────────────────────
+
+> 🧠 [LokalMind](https://github.com/Sandipan006/LokalMind)              — iOS · on-device LLM · zero cloud · MIT
+>    desc                   : Run Qwen 3, Gemma 3, DeepSeek R1 fully on-device.
+>                             Semantic memory, Whisper STT, offline-first. Your AI. Your data.
+>    stack                  : React Native · Expo · llama.rn · whisper.rn · MobX · SQLite
+
+> 🌐 [NeuroGlitch](https://github.com/Sandipan006/neuroglitch)             — Web · cyberpunk ASCII art processor · MIT
+>    desc                   : Transform any image into glitchy, neon-drenched ASCII art.
+>                             Real-time controls, multiple color modes, export as PNG.
+>    stack                  : React 19 · TypeScript · Vite · HTML5 Canvas · Tailwind
+>    live                   : neuroglitch.vercel.app
+
+> 🎯 [react-native-3d-animated-buttons](https://github.com/Sandipan006/react-native-3d-animated-buttons)  — npm package · MIT · ⭐ 34
+>    desc                   : Duolingo-style 3D press buttons with spring physics and haptic feedback.
+>                             50+ SVG icons, RTL support, full TypeScript, zero config.
+>    stack                  : React Native · TypeScript · expo-haptics · react-native-svg
+```
 
 ---
 
-📬 Available for freelance — React Native dev & UI/UX design  
-[![X](https://img.shields.io/badge/@hey_sandipan-black?style=flat-square&logo=x)](https://x.com/hey_sandipan) [![LinkedIn](https://img.shields.io/badge/sandipanbera-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipanbera)
+### ⚡ Tech Stack
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1B1F23?style=flat-square&logo=typescript&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-1B1F23?style=flat-square&logo=apple&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-1B1F23?style=flat-square&logo=figma&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-1B1F23?style=flat-square&logo=git&logoColor=white)
+![EAS](https://img.shields.io/badge/EAS_Build-1B1F23?style=flat-square&logo=expo&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1B1F23?style=flat-square&logo=xcode&logoColor=white)
+
+---
+
+### 📬 Reach me
+
+```bash
+> email    : hey.sandipanbera@email.com
+> linkedin : linkedin.com/in/sandipan-bera
+> X : [linkedin.com/in/sandipan-bera](https://x.com/hey_sandipan)
+```
