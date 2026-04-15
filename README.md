@@ -13,4 +13,4 @@ Currently building **[LokalMind](https://github.com/Sandipan006/lokalmind-app)**
 ---
 
 📬 Available for freelance — React Native dev & UI/UX design  
-[![X](https://img.shields.io/badge/@Sandipanhiru12-black?style=flat-square&logo=x)](https://x.com/hey_sandipan) [![LinkedIn](https://img.shields.io/badge/sandipanbera-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipanbera)
+[![X](https://img.shields.io/badge/@Sandipan Bera-black?style=flat-square&logo=x)](https://x.com/hey_sandipan) [![LinkedIn](https://img.shields.io/badge/sandipanbera-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipanbera)
