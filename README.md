@@ -31,7 +31,7 @@
 
 - 🧠 **[LokalMind](https://github.com/Sandipan006/LokalMind)** — iOS · on-device LLM · zero cloud · MIT  
   Run Qwen 3, Gemma 3, DeepSeek R1 fully on-device. Semantic memory, Whisper STT, offline-first.  
-  **Stack:** React Native · Expo · llama.rn · whisper.rn · MobX · SQLite
+  **Stack:** React Native · Expo · llama.rn · whisper.rn · MobX · SQLite· **Live:** [LokalMind-App](https://apps.apple.com/ma/app/lokalmind-offline-ai/id6753812012)
 
 - 🌐 **[NeuroGlitch](https://github.com/Sandipan006/neuroglitch)** — Web · cyberpunk ASCII art processor · MIT  
   Transform any image into glitchy, neon-drenched ASCII art. Real-time controls, multiple color modes, export as PNG.  
